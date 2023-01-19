@@ -223,8 +223,4 @@ output "private_ip_of_private_ec2" {
 
 ### public instance review
 
-![Alt text](./public%201.png?raw=true "Title")
-
----
-
 ![Alt text](./public%202.png?raw=true "Title")
